@@ -1,3 +1,3 @@
 # mate_repo_0
-- [Preview](https://your-name.github.io/your-repo/)
-- [Pull Request](https://github.com/your-name/your-repo/pull/1/files)
+- [Preview](https://Yulia-Mala.github.io/mate_repo_0/)
+- [Pull Request](https://github.com/Yulia-Mala/mate_repo_0/pull/1/files)
